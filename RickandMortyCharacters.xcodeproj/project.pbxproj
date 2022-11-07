@@ -13,6 +13,7 @@
 		0F5E72A429194C7500C1D602 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F5E72A229194C7500C1D602 /* Main.storyboard */; };
 		0F5E72A629194C7600C1D602 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F5E72A529194C7600C1D602 /* Assets.xcassets */; };
 		0F5E72A929194C7600C1D602 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F5E72A729194C7600C1D602 /* LaunchScreen.storyboard */; };
+		0F5E72B129194CD400C1D602 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F5E72B029194CD400C1D602 /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0F5E72A529194C7600C1D602 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F5E72A829194C7600C1D602 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F5E72AA29194C7600C1D602 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F5E72B029194CD400C1D602 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0F5E729C29194C7500C1D602 /* AppDelegate.swift */,
 				0F5E729E29194C7500C1D602 /* SceneDelegate.swift */,
 				0F5E72A029194C7500C1D602 /* ViewController.swift */,
+				0F5E72B029194CD400C1D602 /* ImageCollectionViewCell.swift */,
 				0F5E72A229194C7500C1D602 /* Main.storyboard */,
 				0F5E72A529194C7600C1D602 /* Assets.xcassets */,
 				0F5E72A729194C7600C1D602 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				0F5E72A129194C7500C1D602 /* ViewController.swift in Sources */,
 				0F5E729D29194C7500C1D602 /* AppDelegate.swift in Sources */,
+				0F5E72B129194CD400C1D602 /* ImageCollectionViewCell.swift in Sources */,
 				0F5E729F29194C7500C1D602 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
